@@ -2,6 +2,9 @@
 
 A simple and interactive counter application built using **HTML**, **CSS**, and **JavaScript**.
 
+## Live Demo
+🔗 https://viwaan2.github.io/javascript-counter-app/
+
 ## Features
 
 * Increment the counter value
